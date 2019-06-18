@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="FizzBuzzTest" tests="4" skipped="0" failures="0" errors="0" timestamp="2019-06-18T14:59:18" hostname="MAKERSs-MacBook-Pro-9.local" time="0.022">
+  <properties/>
+  <testcase name="divisibleBy3()" classname="FizzBuzzTest" time="0.01"/>
+  <testcase name="divisibleBy5()" classname="FizzBuzzTest" time="0.001"/>
+  <testcase name="returnsNumber()" classname="FizzBuzzTest" time="0.001"/>
+  <testcase name="divisibleBy15()" classname="FizzBuzzTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
